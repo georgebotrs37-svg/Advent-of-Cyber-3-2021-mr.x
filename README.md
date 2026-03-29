@@ -592,5 +592,5 @@ What is the password for this user?
 
 thm{thank_you_2021}
 
-other  George Botrs
+ Author George Botrs
 Full Stack Software Engineer | SOC Analyst Trainee | Cybersecurity Enthusiast | Blue Team MR.X💻
